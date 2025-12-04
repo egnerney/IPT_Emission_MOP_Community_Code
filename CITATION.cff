@@ -1,0 +1,72 @@
+cff-version: 1.2.0
+title: "IPT Emission MOP Community Code"
+message: "If you use this software, please cite it using the metadata from this file."
+type: software
+authors:
+  - family-names: Nerney
+    given-names: Edward G.
+    orcid: "https://orcid.org/0000-0002-4938-5621"
+    affiliation: "Laboratory for Atmospheric and Space Physics, University of Colorado Boulder"
+    email: edward.nerney@colorado.edu
+repository-code: "https://github.com/egnerney/IPT_Emission_MOP_Community_Code"
+url: "https://github.com/egnerney/IPT_Emission_MOP_Community_Code"
+license: MIT
+version: "1.0.0"
+doi: "10.5281/zenodo.17808825"
+date-released: "2025-12-03"
+keywords:
+  - Io plasma torus
+  - Jupiter
+  - magnetosphere
+  - UV spectroscopy
+  - optical spectroscopy
+  - plasma physics
+  - CHIANTI
+  - emission modeling
+  - space physics
+  - Juno
+  - Europa Clipper
+  - JUICE
+abstract: >-
+  Comprehensive toolkit for modeling UV and optical emission spectra 
+  from the Io Plasma Torus (IPT). Supports volume emission rate calculations 
+  and line-of-sight integration through 3D plasma models using pre-calculated 
+  tables from the CHIANTI 11.0.2 atomic database. Includes Python, IDL/GDL, 
+  and Fortran implementations for the Magnetospheres of Outer Planets (MOP) 
+  research community.
+references:
+  - type: dataset
+    authors:
+      - family-names: Nerney
+        given-names: Edward G.
+        orcid: "https://orcid.org/0000-0002-4938-5621"
+    title: "IPT Emission Model Data Files for MOP Community Code"
+    doi: "10.5281/zenodo.17808352"
+    repository: "https://zenodo.org/records/17808353"
+    year: 2025
+  - type: article
+    authors:
+      - family-names: Nerney
+        given-names: Edward G.
+      - family-names: Bagenal
+        given-names: Fran
+      - family-names: Steffl
+        given-names: Andrew J.
+    title: "Io plasma torus ion composition: Voyager, Galileo, and Cassini"
+    journal: "Journal of Geophysical Research: Space Physics"
+    volume: 122
+    start: 727
+    end: 744
+    year: 2017
+    doi: "10.1002/2016JA023306"
+  - type: article
+    authors:
+      - family-names: Nerney
+        given-names: Edward G.
+      - family-names: Bagenal
+        given-names: Fran
+    title: "Combining UV Spectra and Physical Chemistry to Constrain the Hot Electron Fraction in the Io Plasma Torus"
+    journal: "Journal of Geophysical Research: Space Physics"
+    volume: 125
+    year: 2020
+    doi: "10.1029/2019JA027458"

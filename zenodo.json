@@ -1,0 +1,56 @@
+{
+    "title": "IPT Emission MOP Community Code",
+    "description": "Comprehensive toolkit for modeling UV and optical emission spectra from the Io Plasma Torus (IPT). Supports volume emission rate calculations and line-of-sight integration through 3D plasma models using pre-calculated tables from the CHIANTI 11.0.2 atomic database. Includes Python, IDL/GDL, and Fortran implementations for the Magnetospheres of Outer Planets (MOP) research community.",
+    "creators": [
+        {
+            "name": "Nerney, Edward G.",
+            "affiliation": "Laboratory for Atmospheric and Space Physics, University of Colorado Boulder",
+            "orcid": "0000-0002-4938-5621"
+        }
+    ],
+    "license": "MIT",
+    "upload_type": "software",
+    "access_right": "open",
+    "keywords": [
+        "Io plasma torus",
+        "Jupiter",
+        "magnetosphere",
+        "UV spectroscopy",
+        "optical spectroscopy",
+        "plasma physics",
+        "CHIANTI",
+        "emission modeling",
+        "space physics",
+        "Juno",
+        "Europa Clipper",
+        "JUICE",
+        "MOP"
+    ],
+    "related_identifiers": [
+        {
+            "identifier": "10.5281/zenodo.17808352",
+            "relation": "isSupplementedBy",
+            "resource_type": "dataset"
+        },
+        {
+            "identifier": "10.1002/2016JA023306",
+            "relation": "isCitedBy",
+            "resource_type": "publication-article"
+        },
+        {
+            "identifier": "10.1029/2019JA027458",
+            "relation": "isCitedBy",
+            "resource_type": "publication-article"
+        }
+    ],
+    "grants": [
+        {
+            "id": "10.13039/100000104::80NSSC19K0546"
+        }
+    ],
+    "communities": [
+        {
+            "identifier": "astronomy"
+        }
+    ]
+}
